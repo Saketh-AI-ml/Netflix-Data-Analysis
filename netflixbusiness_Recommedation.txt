@@ -1,0 +1,22 @@
+Recommendations from Netflix Data Analysis
+
+1. Increase the production of TV shows
+   The analysis shows that movies dominate the Netflix catalog. Netflix can increase the number of TV shows to balance the content library and keep viewers engaged for longer periods, since TV series encourage continued subscriptions.
+
+2. Expand content for children and family audiences
+   Most of the content is targeted toward adults and teenagers. Netflix can expand its catalog of kids and family-friendly content to attract a broader audience segment, especially families and younger viewers.
+
+3. Invest more in international content production
+   Although the United States contributes the highest number of titles, there is growing demand for regional and international content. Netflix can strengthen its global presence by producing more localized content in different languages and regions.
+
+4. Focus on medium-length movies
+   The analysis shows that most successful movies fall within the 90–120 minute range. Netflix can continue prioritizing this duration because it matches viewer attention span and is convenient for streaming audiences.
+
+5. Encourage the development of multi-season TV series
+   Most TV shows in the dataset have only a few seasons. Developing more multi-season series could help build stronger viewer loyalty and long-term engagement with the platform.
+
+6. Improve content diversity across genres and audiences
+   Expanding the variety of genres and audience categories can help Netflix reach new user groups and maintain viewer interest.
+
+7. Use data-driven decisions for future content production
+   Netflix should continue analyzing viewing patterns, audience preferences, and content performance to guide future investments in movies and TV shows.

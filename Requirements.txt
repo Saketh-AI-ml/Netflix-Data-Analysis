@@ -1,0 +1,7 @@
+requirements to build the project
+python
+numpy
+pandas
+matplotlib
+seaborn
+thinking skills

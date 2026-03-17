@@ -1,0 +1,25 @@
+Key Insights from Netflix Data Analysis
+
+1. Movies dominate the Netflix platform
+   The analysis shows that the number of movies available on Netflix is significantly higher than the number of TV shows. This indicates that Netflix heavily focuses on providing movie-based content to its users.
+
+2. Most content targets adults and teenagers
+   The rating distribution reveals that ratings such as TV-MA and TV-14 appear most frequently in the dataset. This suggests that the majority of Netflix content is designed for adult and teenage audiences, while content for children represents a smaller portion of the catalog.
+
+3. The United States contributes the highest number of titles
+   Country-based analysis shows that the United States produces the largest share of Netflix content. Other countries such as India, the United Kingdom, and Canada also contribute notable amounts of content, highlighting Netflix's international presence.
+
+4. Medium-length movies are the most common
+   Movie runtime analysis indicates that most movies fall within the range of approximately 90 to 120 minutes. This suggests that medium-length movies are the most common format on the Netflix platform.
+
+5. Short and medium movies are more frequent than long movies
+   When movies are categorized by runtime, short and medium-length movies appear more often than long movies. This suggests that Netflix tends to prioritize content that viewers can watch in a shorter amount of time.
+
+6. Most TV shows have a small number of seasons
+   Analysis of TV show durations shows that most shows have between one and three seasons. This indicates that Netflix frequently produces limited series or shorter-running shows rather than very long multi-season series.
+
+7. Netflix hosts globally diverse content
+   The dataset shows that Netflix includes content produced in many different countries. This demonstrates that Netflix is a global streaming platform that provides entertainment for audiences across multiple regions.
+
+Final Conclusion
+The overall analysis suggests that Netflix focuses on movie-dominated content, primarily targets adult and teenage audiences, and distributes content produced across many countries. Additionally, most movies are medium in length, and many TV shows are designed as shorter series with fewer seasons.
